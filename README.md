@@ -2,7 +2,7 @@
 In this homework assignment, you will build a simple text-based game in C++. The game consists of a 5x5 grid where the player can move around, collect items, and avoid traps. Your task is to complete the following exercises to build the game step by step.<br>
 ## Exercise 1: Initialize the Game Board
 Write a function called initialize_board that initializes a 5x5 board with zeros, items, and traps.<br>
-**Hints:**<br>
+#### Hints:<br>
 • Use 2D arrays to represent the board.<br>
 • Manually place some items (denoted with 1) and traps (denoted with -1) on the board.<br>
 • void initialize_board(int board[rows][cols])<br>
