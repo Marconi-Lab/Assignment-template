@@ -11,11 +11,11 @@ Write a function called display_board to display the current state of the board.
 Hints:
 • Use nested loops to print each cell of the board.
 Example Output:
-0 0 0 0 0
-0 1 0 0 0
-0 0 -1 0 0
-0 0 0 0 0
-0 0 0 0 0
+0 0 0 0 0<br>
+0 1 0 0 0<br>
+0 0 -1 0 0<br>
+0 0 0 0 0<br>
+0 0 0 0 0<br>
 ## Exercise 3: User Movement
 Write a function called move_cursor that allows the user to move a cursor within the game board. Ask the user to input a direction: 'U' for "up", 'D' for "down", 'L' for "left", 'R' for "right". And make sure that no invalid characters are inserted.
 Hints:
