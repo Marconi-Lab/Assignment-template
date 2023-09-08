@@ -32,6 +32,7 @@ Write a function called update_board that updates the board. In case the current
 Write a main function that lets the player perform a certain number of moves (say 10) and then prints out his score at the end.<br>
 ### Hints:<br> 
 • The output should look something like this:<br>
+
 Current position (0,0)<br>
 0 0 0 0 0<br>
 0 1 0 -1 0<br>
