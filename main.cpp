@@ -3,8 +3,6 @@
 
 using namespace std;
 
-int power() {
-  return //use pow() function
+int main(){
+    return 0;
 }
-
-
