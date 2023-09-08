@@ -11,9 +11,9 @@ Write a function called display_board to display the current state of the board.
 Hints:
 • Use nested loops to print each cell of the board.
 Example Output:
-0 0 0 0 0 \\
-0 1 0 0 0 \\
-0 0 -1 0 0 //
+0 0 0 0 0
+0 1 0 0 0
+0 0 -1 0 0
 0 0 0 0 0
 0 0 0 0 0
 ## Exercise 3: User Movement
